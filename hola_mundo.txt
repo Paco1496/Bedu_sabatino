@@ -1,0 +1,3 @@
+Este es el archivo hola mundo
+Este es otro texto nuevo
+Estos son los siguientes cambios
